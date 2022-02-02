@@ -17,10 +17,11 @@
 
 <h4 align="center">Some ways to get in touch</h4>
 
-<p align="center"><a href="https://www.instagram.com/__rodrigkvii/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.svg"/></a><a href="https://www.linkedin.com/in/rodrigokvk/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="mailto:rodrigokvk@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></p>
-
-
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+<p align="center">
+  <a href="https://www.instagram.com/__rodrigkvii/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.svg"/></a>
+  <a href="https://www.linkedin.com/in/rodrigokvk/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:rodrigokvk@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+</p>
       
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)

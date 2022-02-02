@@ -32,6 +32,5 @@ Some ways to get in touch:
   </tbody>
 </table>
   
- 
-  
-  ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">  ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)</p>

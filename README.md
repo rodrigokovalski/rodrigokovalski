@@ -14,7 +14,7 @@ Here are some of the technologies I've been learning and developing with:
 
 Some ways to get in touch:
 
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.svg"/><img src="https://img.icons8.com/color/48/000000/linkedin.png"/><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+<a href="https://www.instagram.com/__rodrigkvii/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.svg"/><a href="https://www.linkedin.com/in/rodrigokvk/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a><a href="mailto:rodrigokvk@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 
 
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">

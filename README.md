@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **rodrigokovalski/rodrigokovalski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

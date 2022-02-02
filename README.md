@@ -33,4 +33,4 @@ Some ways to get in touch:
 </table>
   
 
-<p align="center">  ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)

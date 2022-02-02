@@ -22,8 +22,5 @@
 
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
       
-          
-      
-  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Snake animation](https://github.com/rodrigokovalski/rodrigokovalski/blob/output/github-contribution-grid-snake.svg)

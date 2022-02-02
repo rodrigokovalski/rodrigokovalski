@@ -1,5 +1,6 @@
-  <h2 style="text-align: center">Hey there!! I'm Rodrigo Kovalski!</h2>
-  <p style="text-align: center; font-style: itallic">but people usually call me by my last name so you might do that if you want 😄</p>
+  <h2 align="center">Hey there!! I'm Rodrigo Kovalski!</h2>
+  <p align="center">****ut people usually call me by my last name so you might do that if you want 😄</p>
+  <br>
   <hr/>
   
   I am a Front End developer who is always evolving and seeking new things to learn. Althought I'm focusing on getting better on my front end skills right now, my dream is to become a full stack developer!
